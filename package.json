@@ -1,0 +1,18 @@
+{
+  "name": "node.js-3-dars-api-qilish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./api/index.js",
+    "dev": " nodemon ./api/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^1.0.1",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
